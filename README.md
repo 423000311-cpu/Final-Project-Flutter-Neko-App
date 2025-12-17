@@ -1,18 +1,16 @@
-# Neko-App 
-In many schools, workplaces, and public areas, lost items are difficult to track and return to their rightful owners. Traditional methods—such as using physical logbooks, bulletin boards, or verbal announcements—often lead to misplaced records, delays, and unclaimed items. A dedicated Lost and Found Management System can simplify the process by organizing item reports, categorizing found objects, and helping users quickly check whether their missing belongings have been submitted. This project aims to introduce a simple and systematic platform to assist individuals in reporting, tracking, and claiming lost items.
+# NEKO_APP_MOBDEV
 
-Flutter Flow Side by side - https://drive.google.com/drive/folders/1vG_CHNvYxbJNlPGxcEN1uNnzTXdkaiHB?usp=sharing
+A new Flutter project.
 
-Features - App state heart,Clikable Pictures,Dark Mode,Favorites
+## Getting Started
 
-How to run:
-- Clone the respository git clone
-- Nvaigate to the project folder:cd nightscene
-- Install dependecies: flutter pub get
-- Run the application: flutter run -d chrome
+This project is a starting point for a Flutter application.
 
-Students Infomation
-- Besa, Chiche E. | 423000072
-- Ladignon, Mark Andrew E. | 423000311
-- Mesina, Bianca Nicole A. | 423000867
-- Permejo, Dan Dexter E. | 423001466
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
