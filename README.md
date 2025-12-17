@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Besa, Chiche E. | 423000072
+Ladignon, Mark Andrew E. | 423000311
+Mesina, Bianca Nicole A. | 423000867
+Permejo, Dan Dexter E. | 423001466
