@@ -12,15 +12,16 @@ The NEKO: One Step To Your Cozy Cup is a drink guide app built to make drinks‑
 
 # HOW TO RUN 
 - Close the repository git clone
-- navigate to the project folder:cd neko coffee
-- install dependencies:flutter pubg get
-- Run the application flutter run -d chrome
+- navigate to the project folder: cd neko coffee
+- install dependencies: flutter pubg get
+- Run the application: flutter run -d chrome
   
 # Student infomation
 - Besa, Chiche E. | 423000072
 - Ladignon, Mark Andrew E. | 423000311
 - Mesina, Bianca Nicole A. | 423000867
 - Permejo, Dan Dexter E. | 423001466 
+
 
 
 
